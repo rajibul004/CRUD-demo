@@ -14,4 +14,3 @@ This is a Spring Boot-based CRUD REST application that allows you to perform Cre
 - ** Database**: MySQL Database .
 
 
-   git clone https://github.com/yourusername/your-repo-name.git
